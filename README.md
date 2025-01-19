@@ -6,6 +6,13 @@
 *  - virtualenv envname
 *  - envname\scripts\activate
 * 3 - cd into project "cd Devops-DevSearch"
+
+# Python 3.8 or 3.9 install and compatible packages version availabe at requirements1.txt file.
+ pip install -r requirements1.txt
+ python manage.py runserver
+
+#OR//
+
 * 4 - pip install -r requirements.txt
 * 5 - python manage.py runserver
 
